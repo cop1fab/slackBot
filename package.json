@@ -1,0 +1,19 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "A slack bot that displays a quotes and jokes to slack users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cop1fab/slackBot.git"
+  },
+  "author": "Dr. Copain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cop1fab/slackBot/issues"
+  },
+  "homepage": "https://github.com/cop1fab/slackBot#readme"
+}
